@@ -30,7 +30,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 st.markdown(
-    '<div class="hero"><h1>💧 P17 — Groundwater Intelligence</h1>'
+    '<div class="hero"><h1>💧 Groundwater Level Prediction System</h1>'
     "<p>Groundwater intelligence · verified coverage currently Punjab &amp; Bihar · daily depth-to-water · "
     "district analysis · rainfall &amp; seasonal features · tested 7–90 day forecasts</p></div>",
     unsafe_allow_html=True,
