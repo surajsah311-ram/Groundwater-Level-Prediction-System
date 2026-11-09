@@ -1,0 +1,77 @@
+{
+  "files": [
+    {
+      "file": "gwl_tel_6_hourly_bihar-gw_br_1991_2020.zip",
+      "rows_raw": 601747,
+      "dropped_unparseable_time_or_value": 0,
+      "negative_values_share": 0.0,
+      "dropped_placeholder_ge_150m": 0,
+      "dropped_exact_zero": 0,
+      "rows_kept": 601747
+    },
+    {
+      "file": "gwl_tel_6_hourly_punjab-gw_pb_1991_2020.zip",
+      "rows_raw": 681295,
+      "dropped_unparseable_time_or_value": 0,
+      "negative_values_share": 0.796,
+      "dropped_placeholder_ge_150m": 2946,
+      "dropped_exact_zero": 35,
+      "rows_kept": 678314
+    },
+    {
+      "file": "gwl_tel_6_hourly_punjab_2021_2025_partial.zip",
+      "rows_raw": 1048575,
+      "dropped_unparseable_time_or_value": 0,
+      "negative_values_share": 0.9882,
+      "dropped_placeholder_ge_150m": 7193,
+      "dropped_exact_zero": 0,
+      "rows_kept": 1041382
+    },
+    {
+      "file": "gwl_tel_6_hourly_punjab_gw_pb_2026_2030.zip",
+      "rows_raw": 1095763,
+      "dropped_unparseable_time_or_value": 0,
+      "negative_values_share": 0.6642,
+      "dropped_placeholder_ge_150m": 7017,
+      "dropped_exact_zero": 57,
+      "rows_kept": 1088689
+    }
+  ],
+  "spike_filter": {
+    "window": "15D",
+    "threshold_m": 5.0,
+    "station_days_before": 1323379,
+    "station_days_removed": 2369,
+    "stray_station_years_removed_station_days": 604
+  },
+  "final": {
+    "station_days": 1320406,
+    "stations": 1574,
+    "stations_usable": 1543,
+    "stations_suspect": 29,
+    "states": [
+      "Bihar",
+      "Punjab"
+    ],
+    "districts": 60,
+    "first_date": "2000-01-01",
+    "last_date": "2026-10-26",
+    "by_state": {
+      "Bihar": {
+        "stations": 538,
+        "districts": 38,
+        "station_days": 601595,
+        "first_date": "2016-06-23",
+        "last_date": "2020-12-31"
+      },
+      "Punjab": {
+        "stations": 1036,
+        "districts": 22,
+        "station_days": 718811,
+        "first_date": "2000-01-01",
+        "last_date": "2026-10-26"
+      }
+    }
+  },
+  "convention": "Depth_m = depth below ground (m), magnitude of the source value; larger = deeper."
+}

@@ -1,0 +1,36 @@
+{
+  "Bihar": {
+    "rain_vs_Latest_m": {
+      "rho": -0.6162179944974101,
+      "p": 3.806200379248647e-05,
+      "n_districts": 38
+    },
+    "rain_vs_Trend_m_per_yr": {
+      "rho": 0.41507012732828,
+      "p": 0.018163888109812683,
+      "n_districts": 32
+    },
+    "rain_vs_Recharge_m": {
+      "rho": -0.5132414125719861,
+      "p": 0.0009834404504019878,
+      "n_districts": 38
+    }
+  },
+  "Punjab": {
+    "rain_vs_Latest_m": {
+      "rho": 0.08644069176173813,
+      "p": 0.7020953364327409,
+      "n_districts": 22
+    },
+    "rain_vs_Trend_m_per_yr": {
+      "rho": -0.3847458241159716,
+      "p": 0.07704997110699946,
+      "n_districts": 22
+    },
+    "rain_vs_Recharge_m": {
+      "rho": 0.22259890558251513,
+      "p": 0.31939484367605253,
+      "n_districts": 22
+    }
+  }
+}

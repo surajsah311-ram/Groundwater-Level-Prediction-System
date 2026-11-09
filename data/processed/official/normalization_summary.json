@@ -1,0 +1,10 @@
+{
+  "input_root": "C:\\Users\\surajsah\\Downloads\\Groundwater_Project_Database_Upgrade\\Codebase\\data\\raw\\official",
+  "source_files_found": 60,
+  "normalized_files": 60,
+  "needs_manual_mapping": 0,
+  "errors": 0,
+  "combined_file": "C:\\Users\\surajsah\\Downloads\\Groundwater_Project_Database_Upgrade\\Codebase\\data\\processed\\official\\normalized_observations.csv",
+  "audit_file": "C:\\Users\\surajsah\\Downloads\\Groundwater_Project_Database_Upgrade\\Codebase\\data\\processed\\official\\normalization_audit.csv",
+  "warning": "Coverage and values are only as complete as the source files. Do not interpret this inventory as proof of all-India coverage."
+}

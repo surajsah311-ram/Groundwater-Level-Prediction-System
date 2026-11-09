@@ -1,0 +1,1412 @@
+[
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/865e832f-9994-4b68-a816-b63e6ffe945e/download/gwl_tel_6_hourly_assam_as_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_assam_as_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 569278
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/3184c9f3-b570-4371-af63-600fc26eb5ec/download/gwl_tel_6_hourly_bihar_gw_br_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_bihar_gw_br_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 30915379
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/db58cc53-7ebc-44ba-a12d-a9c0d837e0a0/download/gwl_tel_6_hourly_cgwb_cg_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_cgwb_cg_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 62867975
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/874ad66b-5cef-4dc4-b45e-a044df28dab8/download/gwl_tel_6_hourly_cgwb_ap_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_cgwb_ap_2021_2025.csv",
+    "status": "failed",
+    "error": "('Connection broken: IncompleteRead(6863794 bytes read, 104971939 more expected)', IncompleteRead(6863794 bytes read, 104971939 more expected))"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/f1fd4184-c5bc-44c6-83f4-931041d46636/download/gwl_tel_6_hourly_cgwb_ch_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_cgwb_ch_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/f1fd4184-c5bc-44c6-83f4-931041d46636/download/gwl_tel_6_hourly_cgwb_ch_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/9d2e7887-084c-458c-a6c8-29a280de2b19/download/gwl_tel_6_hourly_cgwb_dl_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_cgwb_dl_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/9d2e7887-084c-458c-a6c8-29a280de2b19/download/gwl_tel_6_hourly_cgwb_dl_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/30f838e8-4759-4fb9-8f94-9d277f3fd3fb/download/gwl_tel_6_hourly_cgwb_ar_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_cgwb_ar_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/30f838e8-4759-4fb9-8f94-9d277f3fd3fb/download/gwl_tel_6_hourly_cgwb_ar_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/add1a086-202f-4749-a99e-fe4c37af4a73/download/gwl_tel_6_hourly_cgwb_ga_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_cgwb_ga_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/add1a086-202f-4749-a99e-fe4c37af4a73/download/gwl_tel_6_hourly_cgwb_ga_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/6ea9ef6b-8a90-47d0-bd12-ac90272a2650/download/gwl_tel_6_hourly_cgwb_gj_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_cgwb_gj_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/6ea9ef6b-8a90-47d0-bd12-ac90272a2650/download/gwl_tel_6_hourly_cgwb_gj_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/f7b768cd-ef65-4369-9172-e35fb3b2b0d2/download/gwl_tel_6_hourly_cgwb_hp_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_cgwb_hp_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/f7b768cd-ef65-4369-9172-e35fb3b2b0d2/download/gwl_tel_6_hourly_cgwb_hp_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/fc883e0c-c594-4ef7-9fef-c3e0d0cc25c2/download/gwl_tel_6_hourly_cgwb_hr_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_cgwb_hr_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/fc883e0c-c594-4ef7-9fef-c3e0d0cc25c2/download/gwl_tel_6_hourly_cgwb_hr_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/085a1537-75af-4d71-80e2-7bed721668e9/download/gwl_tel_6_hourly_cgwb_jh_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_cgwb_jh_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/085a1537-75af-4d71-80e2-7bed721668e9/download/gwl_tel_6_hourly_cgwb_jh_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/3fcd23c1-743e-49a1-93ca-58d861afac27/download/gwl_tel_6_hourly_cgwb_jk_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_cgwb_jk_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/3fcd23c1-743e-49a1-93ca-58d861afac27/download/gwl_tel_6_hourly_cgwb_jk_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/cd3f04e8-966a-41d3-9c18-f0122a2f3a50/download/gwl_tel_6_hourly_cgwb_ka_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_cgwb_ka_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/cd3f04e8-966a-41d3-9c18-f0122a2f3a50/download/gwl_tel_6_hourly_cgwb_ka_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/608df8ab-625b-4d6c-8ccc-966d117d4766/download/gwl_tel_6_hourly_cgwb_kl_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_cgwb_kl_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/608df8ab-625b-4d6c-8ccc-966d117d4766/download/gwl_tel_6_hourly_cgwb_kl_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/2da4e849-2249-4e15-a609-a6166e30a300/download/gwl_tel_6_hourly_cgwb_mh_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_cgwb_mh_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/2da4e849-2249-4e15-a609-a6166e30a300/download/gwl_tel_6_hourly_cgwb_mh_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/82d41fe2-ef41-4dbd-8ee2-4323bf22c554/download/gwl_tel_6_hourly_cgwb_ml_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_cgwb_ml_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/82d41fe2-ef41-4dbd-8ee2-4323bf22c554/download/gwl_tel_6_hourly_cgwb_ml_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/acb2cc5c-4182-4aa9-8f47-7cd0bb63fc57/download/gwl_tel_6_hourly_cgwb_mp_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_cgwb_mp_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/acb2cc5c-4182-4aa9-8f47-7cd0bb63fc57/download/gwl_tel_6_hourly_cgwb_mp_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/457904f6-a08e-4657-bd28-8cba3495cfd5/download/gwl_tel_6_hourly_cgwb_nl_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_cgwb_nl_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/457904f6-a08e-4657-bd28-8cba3495cfd5/download/gwl_tel_6_hourly_cgwb_nl_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/a53b8350-2230-432c-93ca-eb57b67f7369/download/gwl_tel_6_hourly_cgwb_od_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_cgwb_od_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/a53b8350-2230-432c-93ca-eb57b67f7369/download/gwl_tel_6_hourly_cgwb_od_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/2b3bfc59-e5ca-419b-b3c8-6133da16f2f7/download/gwl_tel_6_hourly_cgwb_pb_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_cgwb_pb_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/2b3bfc59-e5ca-419b-b3c8-6133da16f2f7/download/gwl_tel_6_hourly_cgwb_pb_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/288c5a6c-bd76-4a86-81e3-1213c403f89e/download/gwl_tel_6_hourly_cgwb_py_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_cgwb_py_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/288c5a6c-bd76-4a86-81e3-1213c403f89e/download/gwl_tel_6_hourly_cgwb_py_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/467fe983-e1f0-4428-91b7-0ade87b39f6d/download/gwl_tel_6_hourly_cgwb_rj_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_cgwb_rj_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/467fe983-e1f0-4428-91b7-0ade87b39f6d/download/gwl_tel_6_hourly_cgwb_rj_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/e68634e0-07e7-4f64-9c08-0808dba2c445/download/gwl_tel_6_hourly_cgwb_tn_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_cgwb_tn_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/e68634e0-07e7-4f64-9c08-0808dba2c445/download/gwl_tel_6_hourly_cgwb_tn_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/440d0737-a937-446b-843d-89acb6f23379/download/gwl_tel_6_hourly_cgwb_tr_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_cgwb_tr_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/440d0737-a937-446b-843d-89acb6f23379/download/gwl_tel_6_hourly_cgwb_tr_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/bc5a9d1c-1f3b-4629-9cfb-0d1ccc9ac81f/download/gwl_tel_6_hourly_cgwb_ts_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_cgwb_ts_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/bc5a9d1c-1f3b-4629-9cfb-0d1ccc9ac81f/download/gwl_tel_6_hourly_cgwb_ts_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/e0494524-80b8-4c97-b23c-e5fbedbe00a0/download/gwl_tel_6_hourly_cgwb_uk_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_cgwb_uk_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/e0494524-80b8-4c97-b23c-e5fbedbe00a0/download/gwl_tel_6_hourly_cgwb_uk_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/00154092-75e8-44ba-8db5-ec14763dd5c1/download/gwl_tel_6_hourly_cgwb_up_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_cgwb_up_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/00154092-75e8-44ba-8db5-ec14763dd5c1/download/gwl_tel_6_hourly_cgwb_up_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/44852272-b1f8-46a9-8198-2d00c6afac12/download/gwl_tel_6_hourly_cgwb_wb_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "telemetry\\2021-2025\\gwl_tel_6_hourly_cgwb_wb_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/44852272-b1f8-46a9-8198-2d00c6afac12/download/gwl_tel_6_hourly_cgwb_wb_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/94975719-0754-4fc0-853d-435413e5b0ff/download/gwl_tel_6_hourly_bihar_gw_br_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/1c162dd4-5376-412a-bcaa-135eecdece94/download/gwl_tel_6_hourly_cgwb_ap_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/6cb9710f-b898-401c-8f08-ed3955621c15/download/gwl_tel_6_hourly_cgwb_ar_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/40c11a45-e4ca-46a6-9af7-497844bf5267/download/gwl_tel_6_hourly_cgwb_cg_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/0e479a80-ec78-4771-b7f7-7ffaca8dc26a/download/gwl_tel_6_hourly_cgwb_ch_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/4fad50b3-1bce-43e0-a794-ffaf57d2a139/download/gwl_tel_6_hourly_cgwb_dl_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/6a4a0630-f612-4d57-b340-51c151ab7562/download/gwl_tel_6_hourly_cgwb_ga_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/b496e769-a678-4948-bd91-de3894fb9471/download/gwl_tel_6_hourly_cgwb_gj_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/619aec0d-d2f4-4229-a941-4a5fb78a614c/download/gwl_tel_6_hourly_cgwb_hp_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/bfc07a76-e85b-4e35-89d6-f707fb3a3128/download/gwl_tel_6_hourly_cgwb_hr_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/83339d36-e9b1-4734-8604-b5c5727e5e6e/download/gwl_tel_6_hourly_cgwb_jh_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/64f88a38-4f7d-4ae0-b316-8ffc4fdb48da/download/gwl_tel_6_hourly_cgwb_jk_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/b9a76d29-078e-4551-8092-e22f0e60bb45/download/gwl_tel_6_hourly_cgwb_ka_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/570f6e27-38e7-4cda-a855-ee63ed9c26bb/download/gwl_tel_6_hourly_cgwb_kl_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/53d52a41-1853-449a-b54c-566054a5ad58/download/gwl_tel_6_hourly_cgwb_mh_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/5839112c-afb1-472e-9326-6eaa23c9a12f/download/gwl_tel_6_hourly_cgwb_ml_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/ad5b97a5-9c42-443b-8069-e1c33875239c/download/gwl_tel_6_hourly_cgwb_mp_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/d66c54d5-db07-4d24-a751-16443f884228/download/gwl_tel_6_hourly_cgwb_nl_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/41c4bba1-a67d-421d-941f-b59e1c7691cd/download/gwl_tel_6_hourly_cgwb_od_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/8d6526d8-e33d-4401-bea1-e34d259d7070/download/gwl_tel_6_hourly_cgwb_pb_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/c234c878-5111-459c-b425-b3baa4a0c08c/download/gwl_tel_6_hourly_cgwb_py_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/931ff862-f13e-4754-83f9-55e0dc894f2d/download/gwl_tel_6_hourly_cgwb_rj_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/3bd0c6d5-dd9b-4c07-9c60-6410c1c6bd56/download/gwl_tel_6_hourly_cgwb_tn_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/cd023229-a909-4b92-b5e0-5b2f5a34f850/download/gwl_tel_6_hourly_cgwb_tr_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/137d0a1c-8fe0-4bb1-97a8-983c28ec96db/download/gwl_tel_6_hourly_cgwb_ts_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/6a5836fd-03e8-449c-908f-b98e1f7ffa10/download/gwl_tel_6_hourly_cgwb_uk_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/4805b4dc-2d3d-4440-bfbd-968d749493e2/download/gwl_tel_6_hourly_cgwb_up_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/75641310-f255-4856-bbac-31306f464488/download/gwl_tel_6_hourly_cgwb_wb_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "telemetry",
+    "catalogue_url": "https://nwdp.nwic.gov.in/en/dataset/ground-water-level-telemetry-daily-cgwb-as-assam",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/3782ba15-9b12-46a8-ae44-410b1f84020e/resource/b9e460b1-84f9-42c3-b85c-ec51d696957b/download/gwl_tel_6_hourly_assam_as_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/c81b1976-fcd3-4bad-aedb-8b38d957a1a8/download/gwl_manual_quarterly_cgwb_an_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_an_1991_2020.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/c81b1976-fcd3-4bad-aedb-8b38d957a1a8/download/gwl_manual_quarterly_cgwb_an_1991_2020.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/7413b8de-2f99-45d3-b673-3d145012d3e8/download/gwl_manual_quarterly_cgwb_an_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_an_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/7413b8de-2f99-45d3-b673-3d145012d3e8/download/gwl_manual_quarterly_cgwb_an_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/8111c3ef-5dc3-4aa9-9f37-f4f13d6099d5/download/gwl_manual_quarterly_cgwb_rj_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_rj_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/8111c3ef-5dc3-4aa9-9f37-f4f13d6099d5/download/gwl_manual_quarterly_cgwb_rj_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/528b106b-664a-4736-accc-72bbb808b74d/download/gwl_manual_quarterly_cgwb_tn_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_tn_1991_2020.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/528b106b-664a-4736-accc-72bbb808b74d/download/gwl_manual_quarterly_cgwb_tn_1991_2020.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/21cfbb8e-ac1b-4837-a463-317c05fb6f1b/download/gwl_manual_quarterly_cgwb_tn_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_tn_2021_2025.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/21cfbb8e-ac1b-4837-a463-317c05fb6f1b/download/gwl_manual_quarterly_cgwb_tn_2021_2025.csv (Caused by NameResolutionError(\"HTTPSConnection(host='nwdp.nwic.gov.in', port=443): Failed to resolve 'nwdp.nwic.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/89c09841-b92e-4488-ae73-9dd3336e4ebe/download/gwl_manual_quarterly_cgwb_tr_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_tr_1991_2020.csv",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='nwdp.nwic.gov.in', port=443): Max retries exceeded with url: /dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/89c09841-b92e-4488-ae73-9dd3336e4ebe/download/gwl_manual_quarterly_cgwb_tr_1991_2020.csv (Caused by ConnectTimeoutError(<HTTPSConnection(host='nwdp.nwic.gov.in', port=443) at 0x24b04f7a4e0>, 'Connection to nwdp.nwic.gov.in timed out. (connect timeout=20)'))"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/47123b4c-09b2-4dd8-8c2d-693e4322c00b/download/gwl_manual_quarterly_cgwb_tr_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_tr_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 59642
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/372a5399-0b73-4460-a97b-a0262f17f88e/download/gwl_manual_quarterly_cgwb_ts_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_ts_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 6455895
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/8b8f17d0-b56e-4bdc-8d62-9d26d5a4db1e/download/gwl_manual_quarterly_cgwb_uk_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_uk_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 162697
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/c745effb-e625-4adc-aaa8-c048d575333b/download/gwl_manual_quarterly_cgwb_up_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_up_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 11930069
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/3bfb326c-0aa6-45fa-aef4-bde87faa9810/download/gwl_manual_quarterly_cgwb_up_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_up_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 793069
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/bb47891b-e95b-44ce-b8db-fdae8c6b495c/download/gwl_manual_quarterly_cgwb_wb_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_wb_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 9656086
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/69032f56-0a2c-404b-ad55-b6ae8e1e0df5/download/gwl_manual_quarterly_cgwb_wb_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_wb_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 1110405
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/8d3e9f64-8e0b-474a-8e1c-0b260b400c0c/download/gwl_manual_quarterly_cgwb_ar_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_ar_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 116131
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/721a9ff5-cd1b-470c-875b-a381e1306392/download/gwl_manual_quarterly_cgwb_ar_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_ar_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 25595
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/fcdd441f-7b73-451e-9c0e-9f84eacbc055/download/gwl_manual_quarterly_cgwb_as_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_as_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 2297778
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/7e054f9d-8161-455b-8c09-8a918e32f5ac/download/gwl_manual_quarterly_cgwb_as_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_as_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 268379
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/63d2878e-8993-4459-b12a-08cb5149f1b3/download/gwl_manual_quarterly_cgwb_br_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_br_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 4593603
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/fdf501bd-064a-4a57-b620-79516782b7ff/download/gwl_manual_quarterly_cgwb_br_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_br_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 609585
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/61791d05-02ed-4837-ac60-234283841519/download/gwl_manual_quarterly_cgwb_cg_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_cg_1991_2020.csv",
+    "status": "failed",
+    "error": "('Connection broken: IncompleteRead(4635570 bytes read, 1932560 more expected)', IncompleteRead(4635570 bytes read, 1932560 more expected))"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/8b6f022a-0b4f-4101-ae83-bec6fb719651/download/gwl_manual_quarterly_cgwb_cg_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_cg_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 1099389
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/285d261b-d29f-4b1b-b2bf-441354fbfd76/download/gwl_manual_quarterly_cgwb_ch_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_ch_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 160047
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/0341ca7b-d805-477e-810c-8677e34a3958/download/gwl_manual_quarterly_cgwb_ch_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_ch_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 28899
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/9a04b453-b6b2-418b-b185-9cf20862821f/download/gwl_manual_quarterly_cgwb_dl_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_dl_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 1297173
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/f9d6022f-934e-4835-a0ff-8abd30d20ed9/download/gwl_manual_quarterly_cgwb_dl_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_dl_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 81418
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/b1193030-1bde-4a9e-afc6-d66de6d275e3/download/gwl_manual_quarterly_cgwb_dn_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_dn_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 122942
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/53ca7ccc-7e47-4003-992a-c1c594e25c3a/download/gwl_manual_quarterly_cgwb_dn_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_dn_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 12927
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/1ee95bba-cc6e-4648-95a3-ba195f80686e/download/gwl_manual_quarterly_cgwb_ga_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_ga_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 398795
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/4c250b6b-cde4-4634-ac3f-86285a95dbd5/download/gwl_manual_quarterly_cgwb_ga_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_ga_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 132160
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/5fc7025a-79b8-45e7-8028-354b7f38cdad/download/gwl_manual_quarterly_cgwb_gj_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_gj_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 9580569
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/ef17ded9-be74-48e6-9359-f3a19daeea4a/download/gwl_manual_quarterly_cgwb_gj_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_gj_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 848503
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/63d76ebf-7f2c-4e62-9322-8810aa3ca6ce/download/gwl_manual_quarterly_cgwb_hp_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_hp_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 924252
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/86e14207-4aa3-48a0-bcc9-3a155e6185b5/download/gwl_manual_quarterly_cgwb_hp_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_hp_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 156788
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/1386c95c-14e4-4dae-9697-bc738d23a30e/download/gwl_manual_quarterly_cgwb_hr_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_hr_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 4177145
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/62fe9597-ddd1-4372-a7f5-bd62481beab3/download/gwl_manual_quarterly_cgwb_hr_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_hr_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 499493
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/9dcefdc5-a56d-43ba-9979-3f8f1558438f/download/gwl_manual_quarterly_cgwb_jh_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_jh_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 2268176
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/7b69bb72-5c7b-4a7a-99d5-ce8ec7f13e30/download/gwl_manual_quarterly_cgwb_jh_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_jh_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 593518
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/a88dccd4-399b-4564-a2d0-4d6eb252266b/download/gwl_manual_quarterly_cgwb_jk_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_jk_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 1807388
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/c9ddb1e5-02d6-4ef4-87e3-56efeff36211/download/gwl_manual_quarterly_cgwb_jk_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_jk_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 214017
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/3dacbc24-b45c-4ffe-8099-f69728ca711b/download/gwl_manual_quarterly_cgwb_ka_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_ka_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 14136017
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/7b76b032-99a5-4725-8a5b-125346e7aebf/download/gwl_manual_quarterly_cgwb_ka_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_ka_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 2543880
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/95faaf19-07c2-4c79-b597-03f7030cc4f0/download/gwl_manual_quarterly_cgwb_kl_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_kl_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 11400804
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/d32e6b72-9abf-4c80-b225-9d685398eb91/download/gwl_manual_quarterly_cgwb_kl_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_kl_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 1739999
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/7d5a5fc2-5fd7-4efc-8c25-75c1277b0fa2/download/gwl_manual_quarterly_cgwb_lk_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_lk_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 362
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/0e7180fa-5282-4df6-bead-8ca7a7557e74/download/gwl_manual_quarterly_cgwb_mh_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_mh_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 13975547
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/073029e8-492d-416c-9857-3ad3e27c69a6/download/gwl_manual_quarterly_cgwb_mh_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_mh_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 1754883
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/e24d301d-5031-44cb-9972-f46972bc2c69/download/gwl_manual_quarterly_cgwb_ml_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_ml_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 294409
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/05cb78d1-e9da-46b3-89f6-b98079e601df/download/gwl_manual_quarterly_cgwb_ml_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_ml_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 45856
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/d8061368-6ca9-454b-bbaf-338687f9754a/download/gwl_manual_quarterly_cgwb_mn_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_mn_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 2795
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/415f09ce-8ce3-4ede-a076-615dc14bf917/download/gwl_manual_quarterly_cgwb_mp_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_mp_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 14553581
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/6a47df3a-8c42-419c-b577-b9c6ded71112/download/gwl_manual_quarterly_cgwb_mp_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_mp_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 1763240
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/4e2817d9-d2d9-4419-9366-c56e05b24103/download/gwl_manual_quarterly_cgwb_nl_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_nl_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 42209
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/1b3effee-add1-4172-b33f-cc6d214cea59/download/gwl_manual_quarterly_cgwb_nl_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_nl_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 9051
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/bf10433c-7213-401f-9cc3-ba35f1f7adb0/download/gwl_manual_quarterly_cgwb_od_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_od_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 12426821
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/bdebe9ba-62ad-4c34-acd0-e7f9332dff59/download/gwl_manual_quarterly_cgwb_od_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_od_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 2152970
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/41e431b0-082a-41f7-bf32-d7eea6a4ef1f/download/gwl_manual_quarterly_cgwb_pb_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_pb_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 4283428
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/862305d4-0384-4af2-9dca-122e6db0a1c2/download/gwl_manual_quarterly_cgwb_pb_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_pb_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 582219
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/80fd198a-7d77-412c-87ab-bc6a61f11063/download/gwl_manual_quarterly_cgwb_ap_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_ap_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 10980474
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/31803a41-1025-4eae-8786-8efe29b1623c/download/gwl_manual_quarterly_cgwb_ap_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_ap_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 1481218
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/3751ad91-8203-493a-9716-ad0186f4f5ff/download/gwl_manual_quarterly_cgwb_ts_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_ts_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 1095897
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/5bca5263-df4a-489d-8a1d-9cffb6416703/download/gwl_manual_quarterly_cgwb_uk_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_uk_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 428729
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/cc859127-1d81-4a3b-b05b-dfbdf14fc5e6/download/gwl_manual_quarterly_cgwb_py_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_py_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 76395
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/9bfd807e-dbdc-40b2-b997-2cc7b192c910/download/gwl_manual_quarterly_cgwb_py_2021_2025.csv",
+    "period_group": "2021-2025",
+    "local_path": "manual_quarterly\\2021-2025\\gwl_manual_quarterly_cgwb_py_2021_2025.csv",
+    "status": "downloaded",
+    "bytes": 26889
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/f1ef9d48-1ac1-4f8c-9ed1-e0682fabc81b/download/gwl_manual_quarterly_cgwb_rj_1991_2020.csv",
+    "period_group": "1991-2020",
+    "local_path": "manual_quarterly\\1991-2020\\gwl_manual_quarterly_cgwb_rj_1991_2020.csv",
+    "status": "downloaded",
+    "bytes": 10330533
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/c0886194-96fd-4e46-8cf2-82fcf1a69057/download/gwl_manual_quarterly_cgwb_an_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/1bd14e55-0fc9-4e01-9a44-2e268ae0ae99/download/gwl_manual_quarterly_cgwb_ap_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/a5710ea2-6889-4125-b68c-e112a00d8f09/download/gwl_manual_quarterly_cgwb_ar_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/a563a6ff-9972-483d-884d-9e09161509ff/download/gwl_manual_quarterly_cgwb_as_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/dc48e2f4-5944-4f3e-9e45-2eec001058e5/download/gwl_manual_quarterly_cgwb_br_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/550d8b72-e310-4fef-99d0-2e7912b77eea/download/gwl_manual_quarterly_cgwb_cg_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/619fe37e-74ca-4f09-b896-04a4ac6c8eab/download/gwl_manual_quarterly_cgwb_ch_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/6e357dfe-c0c3-447d-9c99-fd3eb544b2b5/download/gwl_manual_quarterly_cgwb_dl_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/ce83ecff-bccf-4d18-b962-59f46ebd6f9b/download/gwl_manual_quarterly_cgwb_dn_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/94facedc-a5a8-4114-bb23-dcf4d75c98fb/download/gwl_manual_quarterly_cgwb_ga_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/3c9ea0a0-28b4-49a5-a14f-c9db90cc4bf0/download/gwl_manual_quarterly_cgwb_gj_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/5e981bdb-9664-4210-a812-fd7229ff55a5/download/gwl_manual_quarterly_cgwb_hp_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/00a546a5-db9d-4586-887b-4170b01a6dfc/download/gwl_manual_quarterly_cgwb_hr_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/80ce70c1-0ef0-4daa-b0ee-4f67d28430c2/download/gwl_manual_quarterly_cgwb_jh_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/e6463586-1187-4367-a60e-b3f103dafc82/download/gwl_manual_quarterly_cgwb_jk_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/84bb8743-79e9-4856-95ee-b79c96126fcf/download/gwl_manual_quarterly_cgwb_ka_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/e6c267cd-6f76-49f6-ae06-809a87830b47/download/gwl_manual_quarterly_cgwb_kl_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/59f9aee6-701e-42db-860c-b0f7663f6383/download/gwl_manual_quarterly_cgwb_mh_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/042ad1ca-e437-476d-89db-ae4cc8d93bdf/download/gwl_manual_quarterly_cgwb_ml_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/bb0861b8-54c6-4951-b49f-1b9ae0a047d3/download/gwl_manual_quarterly_cgwb_mp_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/ec2946f3-889d-4a8b-90f3-b7e774b18989/download/gwl_manual_quarterly_cgwb_nl_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/62c5c7ed-64c4-4420-871b-f8b45532ab59/download/gwl_manual_quarterly_cgwb_od_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/cfe24362-d4bf-4316-8ef1-3131dacc4216/download/gwl_manual_quarterly_cgwb_pb_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/77128d62-e921-4d1d-8815-01e29d651086/download/gwl_manual_quarterly_cgwb_py_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/12537471-6467-4415-81e2-a605b08b98f6/download/gwl_manual_quarterly_cgwb_rj_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/94d55b3e-ff8d-4dcc-9aef-735fb828eade/download/gwl_manual_quarterly_cgwb_tn_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/413d270d-973c-4a7f-9c5b-103cb2892aba/download/gwl_manual_quarterly_cgwb_tr_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/7e951b93-7025-45c4-be72-378a8db544cd/download/gwl_manual_quarterly_cgwb_ts_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/d849b593-058b-4cee-ad9f-40f621e2af89/download/gwl_manual_quarterly_cgwb_uk_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/b5c58f1e-03b5-4403-8eed-e70d17a33479/download/gwl_manual_quarterly_cgwb_up_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  },
+  {
+    "kind": "manual_quarterly",
+    "catalogue_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department",
+    "label": "Download",
+    "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/6182a04b-ac69-4f8d-96a4-964161282bb5/download/gwl_manual_quarterly_cgwb_wb_2026_2030.csv",
+    "period_group": "2026-plus",
+    "status": "skipped_current_period"
+  }
+]
